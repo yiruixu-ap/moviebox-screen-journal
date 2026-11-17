@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yiruixu-ap.github.io/moviebox-screen-journal/sitemap.xml
